@@ -1,0 +1,50 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    padding: 10px 20px;
+    color: white;
+  }
+  
+  .logo-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-checkmark {
+    font-size: 36px;
+    color: red;
+    margin-right: 10px;
+  }
+  
+  .version-info h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .version-info p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  .location-info {
+    margin-left: 20px;
+  }
+  
+  .location-info p {
+    margin: 0;
+    font-size: 12px;
+  }
+  
+  .tools-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .tool-icon {
+    margin-left: 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
